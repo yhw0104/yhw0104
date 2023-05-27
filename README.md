@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffdf66,100:ffdf66&height=200&section=header&text=welcome%20to%20Hyun%20woo's%20Git%20Hub!&fontSize=50&fontColor=6666ff">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6666ff,100:6666ff&height=200&section=header&text=welcome%20to%20Hyun%20woo's%20Git%20Hub!&fontSize=50&&fontColor=ffdf66">
 </div>
  
  <br>
@@ -23,6 +23,8 @@
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
 
+<br>
+
 <p align="center" display="inline-block">
     💡Language <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -45,7 +47,7 @@
 </p>
 
 <p align="center" display="inline-block">
- :clipboard: Once I've Used  <br><br>
+ :clipboard: Once I've Used  <br>
    <img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
    <img height="25" src="https://img.shields.io/badge/REST API-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
    <br>
